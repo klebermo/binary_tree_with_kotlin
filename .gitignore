@@ -1,2 +1,5 @@
 app/bin
+.gradle
+.vscode
+
 
